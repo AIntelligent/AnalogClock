@@ -10,7 +10,7 @@ HEK Analog Clock
 
 # İndir / Download
 
-![Binaries(https://github.com/AIntelligent/AnalogClock/tree/9e13f25b9a9eaa9e8a2a1c5bc1900482790d127e/binaries)
+![Binaries](https://github.com/AIntelligent/AnalogClock/tree/9e13f25b9a9eaa9e8a2a1c5bc1900482790d127e/binaries)
 
 Hakan Emre KARTAL
 hek@nula.com.tr
