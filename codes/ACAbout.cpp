@@ -6,7 +6,7 @@
 // Author:
 //       Hakan Emre Kartal <hek@nula.com.tr>
 //
-// Copyright (c) 2024 Hakan Emre Kartal
+// Copyright (c) 2024 Kartal, Hakan Emre
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
