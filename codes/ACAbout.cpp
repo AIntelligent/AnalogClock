@@ -4,7 +4,7 @@
 // ACAbout.cpp
 //
 // Author:
-//       Hakan Emre Kartal <hek@nula.com.tr>
+//       Kartal, Hakan Emre <hek@nula.com.tr>
 //
 // Copyright (c) 2024 Kartal, Hakan Emre
 //
