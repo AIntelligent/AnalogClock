@@ -1,7 +1,7 @@
 # AnalogClock
 HEK Analog Clock
 
-    This sample GUI program was created by Hakan Emre KARTAL in 2024 with Borland C++Builder 6.0 for MS Windows operating systems.
+This sample GUI program was created by Hakan Emre KARTAL in 2024 with Borland C++Builder 6.0 for MS Windows operating systems.
 
 # Ekran Alıntısı / Screenshots
 
@@ -10,7 +10,7 @@ HEK Analog Clock
 
 # İndir / Download
 
-    https://github.com/AIntelligent/AnalogClock/tree/9e13f25b9a9eaa9e8a2a1c5bc1900482790d127e/binaries
+https://github.com/AIntelligent/AnalogClock/tree/9e13f25b9a9eaa9e8a2a1c5bc1900482790d127e/binaries
 
 Hakan Emre KARTAL
 hek@nula.com.tr
