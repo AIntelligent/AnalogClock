@@ -371,7 +371,7 @@ object About: TAbout
       Top = 80
       Width = 222
       Height = 13
-      Caption = 'Copyright (C)(R) 2024 by Hakan Emre KARTAL'
+      Caption = 'Copyright (C)(R) 2024 by Kartal, Hakan Emre'
       IsControl = True
     end
     object Comments: TLabel
